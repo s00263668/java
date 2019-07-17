@@ -1,2 +1,5 @@
 # Ignore target file
-/jaxb.example/target/**
+/*/target/
+/.metadata/
+/*/.settings/
+/*/.vscode/
